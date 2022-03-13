@@ -71,3 +71,5 @@ Awards
 * Edward Squires Memorial Fellowship 2020
 * MIT GrandHack2016 healthcare at home award
 * SAMSUNG BADA codeathon 2011 winner
+
+<embed src="https://pankajkgupta.github.io/files/cv_pankaj.pdf" type="application/pdf" width="600px" height="500px" />
