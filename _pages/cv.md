@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. Computer Engineering, University of Pune, India, 2008
+* M.Sc. Interactive Entertainment Technology(CS), Trinity College Dublin, Ireland, 2012
+* Graduate Program in Neuroscience(PhD), University of British Columbia, Canada, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Student Neurodata Tutor- UBC Dynamic Brain Circuits cluster Mar. 2020 - current
+* Lead Teaching Assistant- UBC Neuroscience NRSC-501(2021W) course Dec. 2020 - May 2021
+* Teaching Assistant- NeuroMatchAcademy (2020, 2021) Summer School, held online Aug. 2021, July 2020
+* Teaching Assistant- Frontiers in Neurophotonics Summer School, Quebec City, Canada June 2019
+* Research Assistant- Brown University, Providence, RI, USA Oct. 2015 - Jun. 2018
+* Research Engineer- ATR International, Kyoto, Japan Dec. 2012 - Jul. 2015
+* Intern (M.Sc. Thesis)- ATR International, Kyoto, Japan May 2012 - July 2012
+* Sr. Software Developer- Propalms Network Pvt. Ltd., Pune, India Dec. 2008 - Aug. 2011
+* Associate Software Developer- GlobalLogic, Noida, India Aug. 2008 - Dec. 2008
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Concepts: Optogenetics, Calcium imaging, Electrophysiology, Near Infra-red Spectroscopy, Signal processing; Supervised and Unsupervised Machine Learning; Statistics; Linear Algebra; Computer Vision; Augmented Reality; Computer Network Programming;
+* Programming env.: Python; Matlab; C; C++; C#; OpenCV; OpenGL; Windows; Linux
 
 Publications
 ======
@@ -56,4 +52,22 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Committee member, Diversity Mentorship Program, UBC
+* Editor and Communications Manager at Neuropsyched, a UBC-student run science magazine
+* Science communicator for Community Science Initiative 2019 at Science World, Vancouver
+* Assistant Vice President (Academic services) at Interdisciplinary Graduate Student Network (iGSN) at University of British Columbia, Vancouver
+* Volunteer at planning committee for Psychiatry Research Day 2019 at University of British Columbia, Vancouver
+* Added support for non-Admin users of OpenVPN client on Windows platform
+* Hiking & cleaning drives of natural places with Kansai International Outdoor Club, Osaka, Japan
+* Note-taker at Student Disability Services, Trinity College Dublin, Dublin, Ireland
+
+Awards
+======
+* Frontiers in Neurophotonics presentation contest winner
+* AccelNet IN-BIC fellowship
+* Student choice award for project at SWDB 2021
+* Brain-Tech 2021 hackathon winner
+* DMCBH Neural Repair Endowment 2021
+* Edward Squires Memorial Fellowship 2020
+* MIT GrandHack2016 healthcare at home award
+* SAMSUNG BADA codeathon 2011 winner
