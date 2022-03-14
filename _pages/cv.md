@@ -15,6 +15,16 @@ Education
 * M.Sc. Interactive Entertainment Technology(CS), Trinity College Dublin, Ireland, 2012
 * Graduate Program in Neuroscience(PhD), University of British Columbia, Canada, 2022 (expected)
 
+Summer Schools/ Workshops
+======
+* Summer Workshop on the Dynamic Brain (Allen Institute; U. Wash., USA) Aug 2021
+* (TA)Neuromatch Academy 2020, 2021 (held online, world-wide) Aug. 2020, July 2021
+* CNEURO 2020: Theoretical and Computational Neuroscience (Tsinghua University, China) Aug 2020
+* (TA)Frontiers in Neurophotonics Summer School (Universit´e Laval, Canada) Aug 2020
+* Methods in Neuroscience at Dartmouth (Dartmouth College, USA) Jul - Aug 2018
+* Translational Neuroscience and Neural Engineering (Brown Uni. & EPFL) June 2018
+* Computational Approaches to Memory and Plasticity (NCBS, Bangaluru, India) Jul - Aug 2017
+
 Work experience
 ======
 * Graduate Student Neurodata Tutor- UBC Dynamic Brain Circuits cluster Mar. 2020 - current
