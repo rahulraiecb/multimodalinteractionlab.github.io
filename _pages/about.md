@@ -13,5 +13,5 @@ At work, I develop computational tools and collaborate with coworkers to explore
 
 In my free time
 ======
-Traveling and anything outdoors, mountains and water excites me. I love meeting new people and learning about them. 
+Traveling and anything outdoors, mountains and water excite me. I love meeting new people and learning about them. 
 
