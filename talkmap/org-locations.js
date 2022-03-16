@@ -35,9 +35,9 @@ var addressPoints = [
     -0.1276474
   ],
   [
-    "Quebec, Canada",
-    52.4760892,
-    -71.8258668
+    "Quebec City, Canada",
+    46.8137431,
+    -71.2084061
   ],
   [
     "Montreal, Qc",
