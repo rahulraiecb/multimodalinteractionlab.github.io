@@ -73,7 +73,7 @@ Service and leadership
 
 Awards
 ======
-* Frontiers in Neurophotonics presentation contest winner
+* Frontiers in Neurophotonics Highlights 2021: video contest winner
 * AccelNet IN-BIC fellowship
 * Student choice award for project at SWDB 2021
 * Brain-Tech 2021 hackathon winner
